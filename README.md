@@ -5,7 +5,7 @@ This is a sample app for the travel reference scenario, built with the [SAP Clou
 The purpose of this sample app is to:
 * Demonstrate SAP Fiori annotations
 * Demonstrate and compare SAP Fiori features on various stacks (CAP Node.js, CAP Java SDK, ABAP)
-* Run UI test suites on various stacks
+* Run UI test suites on various stacks.
 
 ![Process Travels Page](img.png)
 
